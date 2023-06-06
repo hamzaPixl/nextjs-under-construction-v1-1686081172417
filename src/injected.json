@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "template": "nextjs-under-construction-v1",
+    "deployment": {
+      "siteId": "PA-PREV-01",
+      "accessToken": "VAT",
+      "domain": ""
+    }
+  },
+  "manifest": {
+    "projectName": "Premier Art",
+    "shortName": "PA",
+    "displayType": "fullscreen",
+    "copyrightHeadline": "© 2023 Premier Art",
+    "themeColor": "#000000",
+    "backgroundColor": "#ffffff"
+  },
+  "projectName": "Premier Art",
+  "title": "Premier Art",
+  "description": "Cabinet d'architectes",
+  "websiteUrl": "https://www.premierart.be",
+  "canonicalUrl": "https://www.premierart.be",
+  "keywords": "architecture, design, minimalist, residential, urban planning, sustainable, renovation",
+  "analytics": {
+    "gtag": ""
+  },
+  "colors": {
+    "main": {
+      "input": "#ffffff",
+      "secondary": "#cee002",
+      "primaryText": "#ffffff",
+      "secondaryText": "#cee002",
+      "primaryBg": "#666666",
+      "secondaryBg": "#666666"
+    },
+    "footer": {
+      "footerText": "#ffffff",
+      "footerBg": "#666666"
+    },
+    "header": {
+      "headerText": "#ffffff",
+      "headerBg": "#666666"
+    },
+    "state": {
+      "error": "#DE025E",
+      "success": "#02DE83",
+      "warning": "#DE5E02",
+      "text": "#ffffff"
+    }
+  },
+  "address": {
+    "url": "https://goo.gl/maps/xS8che1DjJgBenVd7",
+    "address": "Av. Roi Albert I 64, 1780 Wemmel, Belgique"
+  },
+  "mail": {
+    "mail": "info@premierart.be",
+    "caption": "Discutons de votre projet",
+    "sending": "En cours d'envoi",
+    "callbackUrl": "https://medistia.us21.list-manage.com/subscribe/post?u=d0fbe5c26f7401678e2eb5506&amp;id=58c20e0c30&amp;f_id=00f3f8e1f0",
+    "successMessage": "Nous avons bien reçu votre message. Merci !",
+    "successSubMessage": "Votre message sera traité avec la plus grande attention dès que possible.",
+    "errorMessage": "Veuillez réessayer ultérieurement. Si le problème persiste, veuillez nous contacter par téléphone.",
+    "errorSubMessage": "Oops. Quelque chose s'est mal passé."
+  },
+  "tel": {
+    "tel": "+32493876106",
+    "caption": "Prenez rendez-vous"
+  },
+  "author": {
+    "name": "Crackn",
+    "url": "https://www.crackn.co"
+  },
+  "headline": {
+    "title": "Esquissons vos rêves, donnez-leur vie.",
+    "subTitle": "Avec Premier Art, vous pouvez transformer votre vision en réalité, tout en bénéficiant d'un service personnalisé et d'une attention directe à chaque étape du projet.",
+    "description": "Souhaitez-vous être au courant des dernières tendances en matière de design, recevoir des astuces d'architecture, ou découvrir nos réalisations récentes et uniques ? En vous inscrivant à notre newsletter Premier Art, vous aurez accès à une mine d'informations, des idées innovantes et des inspirations pour vos futurs projets, ainsi qu'un aperçu exclusif de notre travail.",
+    "caption": "Tenez-moi au courant",
+    "chips": [
+      "Conception et dessin d'architecte",
+      "Gestion de projets",
+      "Durabilité et efficacité énergétique",
+      "Restauration et rénovation",
+      "Permis de construire",
+      "Urbanisme",
+      "Visualisations 3D et modélisation"
+    ]
+  },
+  "asideContent": {
+    "text": [
+      "Naviguer à travers le processus de construction ou de rénovation en Belgique peut être déroutant. Chez Premier Art, nous comprenons les défis uniques de la conception architecturale dans ce pays riche en histoire et en diversité. Que votre rêve soit de construire une maison contemporaine dans la campagne flamande, de rénover une maison de maître bruxelloise ou d'aménager un loft industriel à Liège, nous sommes là pour vous aider.",
+      "Notre équipe dévouée de professionnels met à votre service une expertise qui embrasse la complexité des règles locales, le respect de l'environnement et le souci de l'esthétique. Nous vous accompagnons depuis la consultation préliminaire jusqu'à la réalisation finale de votre projet. Nous vous aidons à concrétiser votre vision en prenant en compte vos aspirations, votre budget et vos délais.",
+      "De plus, grâce à notre outil de visualisation et de modélisation 3D, vous pouvez voir votre projet prendre forme avant même le début des travaux. C'est une manière passionnante de vous impliquer pleinement dans le processus créatif, tout en ayant une idée claire de ce à quoi vous attendre.",
+      "Chez Premier Art, nous prenons le temps d'écouter, de comprendre et de traduire vos idées en réalités architecturales durables et esthétiques. Nous sommes convaincus que chaque projet est unique et mérite une attention personnalisée et directe.",
+      "Vous rêvez de transformer votre espace en Belgique ? Permettez-nous de vous accompagner dans cette belle aventure. Prenez le premier pas vers la réalisation de votre projet"
+    ],
+    "title": "Premier Art vous accompagne à chaque étape de votre projet."
+  }
+}
