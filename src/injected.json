@@ -5,6 +5,11 @@
       "siteId": "PA-PREV-01",
       "accessToken": "VAT",
       "domain": ""
+    },
+    "repository": {
+      "git": "https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417.git",
+      "url": "https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417",
+      "name": "nextjs-under-construction-v1-1686081172417"
     }
   },
   "manifest": {

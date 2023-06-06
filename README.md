@@ -1,10 +1,10 @@
-# {{injected.manifest.projectName}}
+# Premier Art
 
-{{injected.manifest.description}}
+injected.manifest.description
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository={{injected.settings.repository.url}}&utm_source=github&utm_medium={{injected.settings.repository.name}}&utm_campaign=devex-cs)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417&utm_source=github&utm_medium=nextjs-under-construction-v1-1686081172417&utm_campaign=devex-cs)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s={{injected.settings.repository.url}}&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name={{injected.settings.repository.name}}&framework=nextjs&totalProjects=1&remainingProjects=1)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=nextjs-under-construction-v1-1686081172417&framework=nextjs&totalProjects=1&remainingProjects=1)
 
 (If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
 
@@ -33,9 +33,9 @@ You can start editing the json configuration by modifying `src/pages/injected.js
 
 **Option one:** One-click deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository={{injected.settings.repository.url}}&utm_source=github&utm_medium={{injected.settings.repository.name}}&utm_campaign=devex-cs)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417&utm_source=github&utm_medium=nextjs-under-construction-v1-1686081172417&utm_campaign=devex-cs)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s={{injected.settings.repository.url}}&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name={{injected.settings.repository.name}}&framework=nextjs&totalProjects=1&remainingProjects=1)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=nextjs-under-construction-v1-1686081172417&framework=nextjs&totalProjects=1&remainingProjects=1)
 
 **Option two:** Manual clone
 
