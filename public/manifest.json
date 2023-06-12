@@ -1,7 +1,7 @@
 {
   "name": "Premier Art",
-  "short_name": "injected.manifest.projectShortName",
-  "description": "injected.manifest.description",
+  "short_name": "PA",
+  "description": "Cabinet d'architectes",
   "icons": [
     {
       "src": "/favicon/android-chrome-36x36.png",
@@ -60,8 +60,8 @@
   ],
   "start_url": "/?source=pwa",
   "background_color": "#ffffff",
-  "orientation": "injected.manifest.orientation",
-  "display": "injected.manifest.display",
+  "orientation": "portrait",
+  "display": "standalone",
   "scope": "/",
   "theme_color": "#000000"
 }

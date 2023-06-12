@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: injected.manifest.url
+Host: https://nextjs-under-construction-v1-1686081172417.vercel.app/
 
 # Sitemaps
-Sitemap: injected.manifest.urlsitemap.xml
+Sitemap: https://nextjs-under-construction-v1-1686081172417.vercel.app/sitemap.xml

@@ -9,6 +9,9 @@ import * as gtag from '../analytics/'
 import './globals.css'
 import { config } from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
+import { Montserrat } from 'next/font/google'
+
+const font = Montserrat({ subsets: ['latin'] })
 
 config.autoAddCss = false
 
@@ -32,7 +35,7 @@ export default function CustomApp({ Component, pageProps }) {
   return (
     <QueryClientProvider client={queryClient}>
       <IntlProvider locale={router.locale || 'en'} messages={messages[router.locale]}>
-        <Component {...pageProps} />
+        <Component {...pageProps} className={font.className} />
       </IntlProvider>
     </QueryClientProvider>
   )

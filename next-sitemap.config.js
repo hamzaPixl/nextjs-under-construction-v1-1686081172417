@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'injected.manifest.url',
+  siteUrl: 'https://preview.premierart.be/',
   generateRobotsTxt: true,
 }

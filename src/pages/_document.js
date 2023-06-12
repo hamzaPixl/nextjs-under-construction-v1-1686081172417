@@ -1,5 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
-import { GtagScript } from '../analytics'
+import { GtagScript, GA_TRACKING_ID } from '../analytics'
 
 export default class CustomDocument extends Document {
   static async getInitialProps(ctx) {
@@ -11,7 +11,7 @@ export default class CustomDocument extends Document {
     return (
       <Html lang='en-US'>
         <Head />
-        <GtagScript />
+        {GA_TRACKING_ID && <GtagScript />}
         <body>
           <Main />
           <NextScript />

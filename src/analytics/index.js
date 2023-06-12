@@ -1,6 +1,6 @@
 import injected from '../injected.json'
 
-const GA_TRACKING_ID = injected.gtag
+export const GA_TRACKING_ID = injected.gtag
 
 // https://developers.google.com/analytics/devguides/collection/gtagjs/pages
 export const pageview = (url) => {

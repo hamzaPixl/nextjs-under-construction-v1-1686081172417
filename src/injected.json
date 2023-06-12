@@ -13,28 +13,28 @@
     }
   },
   "manifest": {
-    "projectName": "Premier Art",
-    "shortName": "PA",
-    "displayType": "fullscreen",
-    "copyrightHeadline": "© 2023 Premier Art",
+    "projectShortName": "Premier Art",
     "themeColor": "#000000",
+    "url": "https://www.preview.premierart.be/",
+    "description": "Cabinet d'architectes",
+    "display": "standalone",
+    "orientation": "portrait",
+    "copyright": "Tous droits reservés",
     "backgroundColor": "#ffffff"
   },
+  "logo": "https://i.ibb.co/s1pw966/Screenshot-2023-06-06-at-21-54-58.png",
   "projectName": "Premier Art",
   "title": "Premier Art",
-  "description": "Cabinet d'architectes",
-  "websiteUrl": "https://www.premierart.be",
-  "canonicalUrl": "https://www.premierart.be",
+  "description": "Premier Art - Cabinet d'architectes",
   "keywords": "architecture, design, minimalist, residential, urban planning, sustainable, renovation",
-  "analytics": {
-    "gtag": ""
-  },
+  "countdownTitle": "Premier Art - Cabinet d'architectes",
+  "gtag": "G-NLFE8BB8S7",
   "colors": {
     "main": {
-      "input": "#ffffff",
-      "secondary": "#cee002",
+      "secondary": "#000000",
       "primaryText": "#ffffff",
-      "secondaryText": "#cee002",
+      "secondaryText": "#666666",
+      "input": "#ffffff",
       "primaryBg": "#666666",
       "secondaryBg": "#666666"
     },
@@ -59,17 +59,19 @@
   },
   "mail": {
     "mail": "info@premierart.be",
-    "caption": "Discutons de votre projet",
+    "caption": "Contact",
     "sending": "En cours d'envoi",
-    "callbackUrl": "https://medistia.us21.list-manage.com/subscribe/post?u=d0fbe5c26f7401678e2eb5506&amp;id=58c20e0c30&amp;f_id=00f3f8e1f0",
-    "successMessage": "Nous avons bien reçu votre message. Merci !",
-    "successSubMessage": "Votre message sera traité avec la plus grande attention dès que possible.",
-    "errorMessage": "Veuillez réessayer ultérieurement. Si le problème persiste, veuillez nous contacter par téléphone.",
-    "errorSubMessage": "Oops. Quelque chose s'est mal passé."
+    "callback": {
+      "url": "https://medistia.us21.list-manage.com/subscribe/post?u=d0fbe5c26f7401678e2eb5506&amp;id=58c20e0c30&amp;f_id=00f3f8e1f0",
+      "successMessage": "Nous avons bien reçu votre message. Merci !",
+      "successSubMessage": "Votre message sera traité avec la plus grande attention dès que possible.",
+      "errorMessage": "Veuillez réessayer ultérieurement. Si le problème persiste, veuillez nous contacter par téléphone.",
+      "errorSubMessage": "Oops. Quelque chose s'est mal passé."
+    }
   },
   "tel": {
     "tel": "+32493876106",
-    "caption": "Prenez rendez-vous"
+    "caption": "Téléphone"
   },
   "author": {
     "name": "Crackn",
@@ -77,26 +79,27 @@
   },
   "headline": {
     "title": "Esquissons vos rêves, donnez-leur vie.",
-    "subTitle": "Avec Premier Art, vous pouvez transformer votre vision en réalité, tout en bénéficiant d'un service personnalisé et d'une attention directe à chaque étape du projet.",
-    "description": "Souhaitez-vous être au courant des dernières tendances en matière de design, recevoir des astuces d'architecture, ou découvrir nos réalisations récentes et uniques ? En vous inscrivant à notre newsletter Premier Art, vous aurez accès à une mine d'informations, des idées innovantes et des inspirations pour vos futurs projets, ainsi qu'un aperçu exclusif de notre travail.",
+    "text": [
+      "Avec Premier Art, vous pouvez concrétiser vos idées avec l'aide de personnes qui travailleront en étroite collaboration avec vous et prêteront attention à chaque étape du processus.",
+      "Voulez-vous en savoir plus sur les nouveaux designs et bâtiments sympas ?",
+      "Inscrivez à notre newsletter, et recevez les dernières inspirations pour vos propres projets. Vous pourrez également voir des éléments exclusifs des coulisses de notre travail."
+    ],
     "caption": "Tenez-moi au courant",
     "chips": [
-      "Conception et dessin d'architecte",
+      "Conception et dessin",
       "Gestion de projets",
-      "Durabilité et efficacité énergétique",
+      "Durabilité énergétique",
       "Restauration et rénovation",
       "Permis de construire",
       "Urbanisme",
-      "Visualisations 3D et modélisation"
+      "Modélisation 3D"
     ]
   },
   "asideContent": {
     "text": [
-      "Naviguer à travers le processus de construction ou de rénovation en Belgique peut être déroutant. Chez Premier Art, nous comprenons les défis uniques de la conception architecturale dans ce pays riche en histoire et en diversité. Que votre rêve soit de construire une maison contemporaine dans la campagne flamande, de rénover une maison de maître bruxelloise ou d'aménager un loft industriel à Liège, nous sommes là pour vous aider.",
-      "Notre équipe dévouée de professionnels met à votre service une expertise qui embrasse la complexité des règles locales, le respect de l'environnement et le souci de l'esthétique. Nous vous accompagnons depuis la consultation préliminaire jusqu'à la réalisation finale de votre projet. Nous vous aidons à concrétiser votre vision en prenant en compte vos aspirations, votre budget et vos délais.",
-      "De plus, grâce à notre outil de visualisation et de modélisation 3D, vous pouvez voir votre projet prendre forme avant même le début des travaux. C'est une manière passionnante de vous impliquer pleinement dans le processus créatif, tout en ayant une idée claire de ce à quoi vous attendre.",
-      "Chez Premier Art, nous prenons le temps d'écouter, de comprendre et de traduire vos idées en réalités architecturales durables et esthétiques. Nous sommes convaincus que chaque projet est unique et mérite une attention personnalisée et directe.",
-      "Vous rêvez de transformer votre espace en Belgique ? Permettez-nous de vous accompagner dans cette belle aventure. Prenez le premier pas vers la réalisation de votre projet"
+      "Premier Art est une entreprise qui peut vous aider à construire ou transformer une maison en Belgique, même à la campagne, en ville, ou dans un grand immeuble ancien.",
+      "Nous sommes une équipe d'experts qui vous assisterons du début à la fin de votre projet. Nous connaissons les règles et on se soucient de l'environnement. Nous écouterons vos idées et s'assureront qu'elles correspondent à votre budget et à votre calendrier. ",
+      "Premier Art accorde une attention particulière à chaque projet et transforme vos idées en bâtiments écologiques et visuellement attrayants. Nous sommes prêts à vous aider à changer de chambre en Belgique et sont ravis de travailler avec vous."
     ],
     "title": "Premier Art vous accompagne à chaque étape de votre projet."
   }
