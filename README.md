@@ -1,6 +1,6 @@
 # Premier Art
 
-injected.manifest.description
+Cabinet d'architectes
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hamzaPixl/nextjs-under-construction-v1-1686081172417&utm_source=github&utm_medium=nextjs-under-construction-v1-1686081172417&utm_campaign=devex-cs)
 
